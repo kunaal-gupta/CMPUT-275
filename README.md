@@ -1,11 +1,14 @@
 Name: Kunaal Gupta
+
 Course & Term Name: CMPUT 275, Winter 2022
 
 Exercise: Weekly Excercise & Morning Problems
+
 Programming Lanaguage: C++
 
-Included Files: 
+**Description:** Each folder in this directory holds C++ assignment solutions/codes to their respective problem stated in the .pdf files, assigned in CMPUT 275 class. 
 
+**Included Files: **
  * README
  * pizza_cutting/
  * constructing_palindromes/
@@ -15,8 +18,7 @@ Included Files:
  * rivers/
  * reference_manager
 
-Concepts learnt & used: 
-
+**Concepts learnt & used: **
  * Function & Pointers
  * Data types
  * Command Line arguement
@@ -31,24 +33,20 @@ Concepts learnt & used:
  * Dynamic Programming
  * Minimum Spanning Tree
 
-Software used: 
-
+**Software used: **
  * Visual Studio Code  
  * VMware Workstation Pro
  * Sublime             
 
-Description:
- - Each folder in this directory holds C++ assignment solutions/codes to their respective problem stated in the .pdf files, assigned in CMPUT 275 class.  
-
-Acknowledgments: 
+**Acknowledgments:** 
  * C++ Intro Labs
  * C++ CheatSheet
  * Code Submission & style guidlines
 
-Github Profile: 
+**Github Profile: **
 https://github.com/kunaal-gupta
 
-Feedback:
+**Feedback**:
 If you have any feedback or issue(s), please reach out to me at kunaalgupta@hotmail.com
 
 
